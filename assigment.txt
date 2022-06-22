@@ -40,7 +40,7 @@ def parrot_trouble(talking,hour):
 parrot_trouble(True,5)
 
 
-5.)Define a function to take a word and return negative meaning.
+4.)Define a function to take a word and return negative meaning.
 Given a word, return a new word where "not " has been added to the front.
  However, if the word already begins with "not", return the string unchanged.
 
