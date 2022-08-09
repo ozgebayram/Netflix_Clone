@@ -1,0 +1,108 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+
+body{
+	background-image: url('background_image.jpg');
+	background-position: center;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	color: #fff;
+	
+
+}
+.container{
+	
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: #00000060;
+}
+
+#baslık{
+	 /* border: 1px solid red;  */
+	font-family: 'EB Garamond', serif;
+	font-family: 'Lora', serif;
+	font-family: 'Sigmar One', cursive;
+	color: #ff0000;
+	text-align: center;
+	font-size: 3.5rem;
+	letter-spacing: 0.10;
+	position: relative;
+	margin-top: 50px;
+	margin-bottom: 5px;
+
+	
+}
+#baslık span{
+	color: #ffffff;
+}
+#main{
+	/* border: 2px solid red; */
+	background-color: #000000c0;
+	margin: auto;
+	max-width: 350px;
+	padding: 25px;
+	
+} 
+#title1{
+	/* border: 1px solid red; */
+	text-align: center;
+	font-family: 'Average', serif;
+	font-size: 1.3rem; 
+
+}
+#name,
+#age
+{
+	width: 300px;
+	height: 50px;
+	padding: 10px 10px;
+	margin: auto;
+}
+#mail,
+#role
+{
+	width: 300px;
+	height: 30px;
+	padding: 5px 10px;
+	margin-top: 5px;
+	/* box-sizing: border-box; */
+	
+}
+#comment{
+	width: 300px;
+	height: 65px;
+	padding: 5px 10px;
+	margin-top: 5px;
+}
+.submit{
+	background-color: #ff0000;
+	color: #ffffff;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	border-radius: 30px;
+	width: 35%;
+	height: 40px;
+	margin-left: 100px;
+	
+
+}
+
+
+
+/* input{
+	padding: 20px 20px;
+	margin-top: 5px;
+	width: 100px;
+} */
+
+/* max-widh 460px
+height 800px
+mar auto
+f size 1 rem */
+
+
+	
